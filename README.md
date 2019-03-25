@@ -2,7 +2,7 @@
 
 # Collaborators on this Project:
 
-•	Project Lead - Guido Herrera
+•	Project Lead - Guido A. Herrera-R
 
 •	Data Science Lead - Yesica Leon-Tinoco
 
