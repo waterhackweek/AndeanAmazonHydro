@@ -70,6 +70,5 @@ McClain, M. E., & Naiman, R. J. (2008). Andean influences on the biogeochemistry
 
 Timpe, K., & Kaplan, D. (2017). The changing hydrology of a dammed Amazon. Science advances, 3(11), e1700611.
 
-
-
+Venticinque, E., Forsberg, B., Barthem, R., Petry, P., Hess, L., Mercado, A., ... & Goulding, M. (2016). An explicit GIS-based river basin framework for aquatic ecosystem conservation in the Amazon. Earth System Science Data, 8(2), 651.
 
