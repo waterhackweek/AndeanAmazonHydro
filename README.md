@@ -13,6 +13,8 @@
 •	Sarah Harbert
 >>>>>>> e2dae5eb75451cd8e368c2af3b30b753bbcc05a9
 
+•       Zach Johnson
+
 # The Problem:
 
 The Andean Amazon is a mountainous region with step altitudinal gradient up to 5000 m, where occurs the headwaters of the main tributaries of the Amazon basin. This is a data-scarce region where the understanding of hydrological regimes is a critical factor in the light of water supply, dams planning, and freshwater ecosystem conservation. The evidence suggests that there is a mixture of latitudinal and altitudinal gradients in observed hydrological regimes, however, a large-scale and holistic assessment validating patterns is still missing for this region. 
