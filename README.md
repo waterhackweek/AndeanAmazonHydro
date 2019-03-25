@@ -13,15 +13,19 @@ The Andean Amazon is a mountainous region with step altitudinal gradient up to 5
 
 This project looks to gain in knowledge on the functioning of freshwater ecosystems in the Andean Amazon region The study of natural hydrological variability and regimes provides a baseline framework to quantify impacts of hydrological alteration in freshwater ecosystems. The projects seek to reveal some insights in the flow-ecology relationships in the Andean Amazon.
 
-# Sample Data  : 
+# Sample Data: 
 
 Hydrological data:
 
-- Discharge daily time series for 1975-2016 from 90 hydrological stations across Ecuador and Brazil
-- Annual hydrograms (Only Ecuador) and locations of hydrological stations
+- Daily discharge time series for 1975-2016 from 300 hydrological stations across the  Ecuador (90 stations)* (Atlantic and Pacific coast) and Brazil (281 stations).
+- Spatial coordinates of hydrological stations (Brazil and Ecuador).
+- Annual Hydrograms (Ecuador)
+
+*Data from 71 stations need to be processed in a friendly format.
 
 Fish data:
-- https://www.gbif.org
+
+- Point ocurrences of fish species in The Amazon basin (Available at: Global Biodiversity Information Facility https://www.gbif.org)
 
 Data from both countries come from different sources, probably we will need to allocate some time in data cleaning and preparation.
 
@@ -33,6 +37,12 @@ Data from both countries come from different sources, probably we will need to a
 3. Disentangle the importance of topographical and climate variables in explaining the variation in hydrological regimes.
 
 4. Understand the ecological role of hydrological regimes in explaining the diversity of Andean Amazon fishes.
+
+
+
+# Learning project Goals
+1. Analyzing hydrological time series data.
+2. Understating spatial hydrology patterns in data-scarce regions.
 
 
 # Existing Methods: 
