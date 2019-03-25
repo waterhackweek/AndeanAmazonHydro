@@ -27,9 +27,8 @@ Fish data:
 
 - Point ocurrences of fish species in The Amazon basin (Available at: Global Biodiversity Information Facility https://www.gbif.org)
 
-Data from both countries come from different sources, probably we will need to allocate some time in data cleaning and preparation.
-
 # Specific Objectives/Questions: 
+
 1. Identify key hydrological indicators to describe and classify hydrological regimes in the Andean Amazon.
 
 2. Spatial visualization and mapping of the proposed classification of hydrological regimes to test for latitudinal and altitudinal gradients.
@@ -38,13 +37,11 @@ Data from both countries come from different sources, probably we will need to a
 
 4. Understand the ecological role of hydrological regimes in explaining the diversity of Andean Amazon fishes.
 
+# Learning project goals:
 
-
-# Learning project Goals
 1. Analyzing hydrological time series data.
 
 2. Understating spatial hydrology patterns in data-scarce regions.
-
 
 # Existing Methods: 
 TBD
@@ -52,6 +49,11 @@ TBD
 # Proposed Methods/Tools:
 
 1. The use of Functional Flow Calculator (https://eflow.gitbook.io/ffc-readme/) to retrieve relevant hydrological indicators from time series available. 
+
+# Communication
+
+- Slack channel: #andeanamazonhydro
+- Hydroshare: TBD
 
 # Background Reading: 
 
