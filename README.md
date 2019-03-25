@@ -1,4 +1,4 @@
-# Project Title: Understanding the diversity of hydrological regimes in the Andean Amazon region
+# Understanding the diversity of hydrological regimes in the Andean Amazon region
 
 # Collaborators on this Project:
 •	Project Lead - Guido Herrera
