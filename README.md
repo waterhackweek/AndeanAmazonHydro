@@ -6,8 +6,12 @@
 
 •	Data Science Lead - Yesica Leon-Tinoco
 
+<<<<<<< HEAD
 •	Project Participant - Lily McGill
 
+=======
+•	Sarah Harbert
+>>>>>>> e2dae5eb75451cd8e368c2af3b30b753bbcc05a9
 
 # The Problem:
 
