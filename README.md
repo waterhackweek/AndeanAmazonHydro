@@ -2,6 +2,7 @@
 
 # Collaborators on this Project:
 •	Project Lead - Guido Herrera
+
 •	Data Science Lead - Yesica Leon-Tinoco
 
 # The Problem:
@@ -16,7 +17,7 @@ This project looks to gain in knowledge on the functioning of freshwater ecosyst
 
 Hydrological data:
 
-- Discharge time series for 1975-2016 from 90 hydrological stations across Ecuador and Brazil
+- Discharge daily time series for 1975-2016 from 90 hydrological stations across Ecuador and Brazil
 - Annual hydrograms (Only Ecuador) and locations of hydrological stations
 
 Fish data:
@@ -38,7 +39,8 @@ Data from both countries come from different sources, probably we will need to a
 TBD
 
 # Proposed Methods/Tools:
-TBD
+
+1. The use of Functional Flow Calculator (https://eflow.gitbook.io/ffc-readme/) to retrieve relevant hydrological indicators from time series available. 
 
 # Background Reading: 
 
