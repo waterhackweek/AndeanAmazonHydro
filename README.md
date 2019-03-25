@@ -21,7 +21,7 @@ Hydrological data:
 - Spatial coordinates of hydrological stations (Brazil and Ecuador).
 - Annual Hydrograms (Ecuador)
 
-*Data from 71 stations need to be processed in a friendly format.
+*Data from 71 stations need to be processed into a friendly format.
 
 Fish data:
 
@@ -42,6 +42,7 @@ Data from both countries come from different sources, probably we will need to a
 
 # Learning project Goals
 1. Analyzing hydrological time series data.
+
 2. Understating spatial hydrology patterns in data-scarce regions.
 
 
