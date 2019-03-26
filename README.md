@@ -24,9 +24,8 @@ This project looks to gain in knowledge on the functioning of freshwater ecosyst
 
 Hydrological data:
 
-- Daily discharge time series for 1975-2016 from 300 hydrological stations across the  Ecuador (90 stations)* (Atlantic and Pacific coast) and Brazil (281 stations).
+- Daily discharge time series for 1975-2016 from 402 hydrological stations across the  Ecuador (90 stations)* (Atlantic and Pacific coast) and Brazil (312 stations).
 - Spatial coordinates of hydrological stations (Brazil and Ecuador).
-- Annual hydrograms (Ecuador)
 
 *Data from 71 stations need to be processed into a friendly format.
 
