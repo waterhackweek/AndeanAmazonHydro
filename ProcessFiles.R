@@ -7,7 +7,7 @@ data$H0884 <- as.numeric(data$H0884)
 
 for(i in 2:ncol(data)){
   dum <- data[,c(1,i)]; colnames(dum) <- c('date','flow')
-  dum$date
+  #dum$date
   write.csv(dum,paste0(getwd(),'/',colnames(data)[i],'.csv'),row.names=F,na='')
 }
 
@@ -28,3 +28,12 @@ braz.cols <- (ncol(data)+1):ncol(data_all)
 data_all[,braz.cols] <- data2[(1:length(date.range)),-1] # brazil sites
 
 write.csv(data_all,paste0(getwd(),'/EcuadorBrazilSites.csv'),row.names=F,na='')
+
+##!!!START HERE GUIDO!!!###
+data3 <- read.csv(paste0(getwd(),'/EcuadorBrazilSites.csv'),header=T,stringsAsFactors=F)
+
+for(i in 2:ncol(data3)){
+  dum <- data3[,c(1,i)]; colnames(dum) <- c('date','flow')
+  #dum$date
+  write.csv(dum,paste0(getwd(),'/',colnames(data)[i],'.csv'),row.names=F,na='')
+}
